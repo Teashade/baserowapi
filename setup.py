@@ -5,7 +5,7 @@ setup(
     version="0.1.0b1",
     packages=find_packages(),
     install_requires=[
-        "pytz>=2023.3.post1",
+        "pytz==2023.3",
         "Requests~=2.31"
     ],
     author="James P Witte",
