@@ -5,8 +5,8 @@ setup(
     version="0.1.0b1",
     packages=find_packages(),
     install_requires=[
-        "pytz==2023.3",
-        "Requests~=2.31"
+        "pytz",
+        "requests"
     ],
     author="James P Witte",
     author_email="jim@thunderingbison.com",
